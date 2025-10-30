@@ -1,3 +1,7 @@
 Juego de Tronos
 El Juego de Ender
 La Historia Interminable
+
+Read Team y hacking
+Curso Intensivo de Python
+Ingeneria de software en google
